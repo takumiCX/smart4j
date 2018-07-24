@@ -9,7 +9,6 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-
 @WebServlet("/hello")
 public class HelloServlet extends HttpServlet{
 
